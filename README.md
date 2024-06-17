@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster
-*Overview*
+# Overview
 In this project, we aimed to build a robust predictive model by analyzing a dataset to uncover patterns and insights about the survivors. Our process involved meticulous data preprocessing, feature engineering, and model selection to ensure the highest accuracy possible.
 
 *Data Preprocessing*
